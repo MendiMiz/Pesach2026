@@ -28,10 +28,10 @@ export function Footer() {
           <span className="text-sm">
             {t.contactPrefix}{" "}
             <a
-              href="mailto:maximi770@gmail.com"
+              href="mailto:menmi770@gmail.com"
               className="font-medium text-[#C5A55A] underline-offset-4 hover:underline"
             >
-              maximi770@gmail.com
+              menmi770@gmail.com
             </a>
           </span>
         </div>
