@@ -12,6 +12,10 @@ export const translations = {
 צמח ואפרת מזרחי`,
             subscribeButton: "הירשם לקבלת חבילה",
         },
+        sederInfo: {
+            dateLabel: "תאריך ליל הסדר",
+            date: 'ליל הסדר השנה יחול ביום רביעי בערב י"ד ניסן - 01/04/2026',
+        },
         packageContents: {
             eyebrow: "מה בחבילה?",
             heading: "תכולת החבילה",
@@ -87,6 +91,10 @@ export const translations = {
                         Wishing you a Kosher and Happy Passover,
                         Tzemach and Efrat Mizrachi`,
             subscribeButton: "Subscribe to receive a package",
+        },
+        sederInfo: {
+            dateLabel: "Seder Date",
+            date: 'The Seder will take place on Wednesday evening, April 1st, 2026 (14th of Nissan)',
         },
         packageContents: {
             eyebrow: "What's in the package?",
