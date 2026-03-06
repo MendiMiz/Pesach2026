@@ -66,22 +66,26 @@ export const translations = {
             },
         },
         footer: {
-            contactPrefix: "לפרטים נוספים:",
-            blessing: "בברכת פסח כשר ושמח, צמיחה ואפשרויות חירות לכולנו!",
+            contactPrefix: "ליצירת קשר:",
+            blessing: [
+                "בברכת חירות אמיתית בגאולה האמיתית והשלימה תיכף ומיד ממש.",
+                "יחי אדוננו מורנו ורבינו מלך המשיח לעולם ועד",
+                "עם ישראל חי!"
+            ],
+            phone: "+39 348 017 8695"
         },
     },
 
     en: {
         hero: {
             title: "Pesach Packages 2026",
-            description: `The project is aimed at students staying in Italy during the Passover holiday.
-We are organizing to send holiday packages, allowing to feel the holiday atmosphere even when far from home.
+            description: `We are organizing to send holiday packages to students staying in Italy during the Passover, allowing to feel the holiday atmosphere even when far from home.
 
-Students interested in receiving a package are requested to register as soon as possible.
-Registration via this form will be open until Rosh Chodesh Nissan – March 18th.
-
-Wishing you a Kosher and Happy Passover,
-Tzemach and Efrat Mizrachi`,
+                        Students interested in receiving a package are requested to register as soon as possible.
+                        Registration via this form will be open until Rosh Chodesh Nissan – March 18th.
+                        
+                        Wishing you a Kosher and Happy Passover,
+                        Tzemach and Efrat Mizrachi`,
             subscribeButton: "Subscribe to receive a package",
         },
         packageContents: {
@@ -138,8 +142,13 @@ Tzemach and Efrat Mizrachi`,
             },
         },
         footer: {
-            contactPrefix: "For more details:",
-            blessing: "Wishing everyone a Kosher and Happy Passover, growth and freedom for all!",
+            contactPrefix: "Contact us:",
+            blessing: [
+                "Wishing everyone a Kosher and Happy Passover",
+                "Moshiach now!",
+                "Am Israel hai!"
+            ],
+            phone: "+39 348 017 8695"
         },
     },
 } as const
