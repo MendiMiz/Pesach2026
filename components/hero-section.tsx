@@ -68,9 +68,10 @@ export function HeroSection() {
 
           {/* Description */}
           <div className="mx-auto mt-3 max-w-2xl sm:mt-4">
-            <p className="text-pretty whitespace-pre-line text-xs font-light leading-relaxed text-[#FFF8E7]/90 sm:text-sm md:text-base">
-              {t.description}
-            </p>
+            <p
+              className="text-pretty whitespace-pre-line text-xs font-light leading-relaxed text-[#FFF8E7]/90 sm:text-sm md:text-base"
+              dangerouslySetInnerHTML={{ __html: t.description }}
+            />
           </div>
 
           {/* Scroll indicator */}

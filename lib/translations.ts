@@ -6,7 +6,7 @@ export const translations = {
 לקראת החג אנו מתארגנים לשלוח חבילות חג על מנת לאפשר לחוש את אווירת החג גם כשרחוקים מהבית.
 
 סטודנטים המעוניינים לקבל חבילה מתבקשים להירשם בהקדם.
-ההרשמה דרך טופס זה תהיה פתוחה עד ראש חודש ניסן – 18 במרץ.
+<strong>ההרשמה דרך טופס זה תהיה פתוחה עד ראש חודש ניסן – 18 במרץ.</strong>
 
 בברכת פסח כשר ושמח,
 צמח ואפרת מזרחי`,
@@ -87,7 +87,7 @@ export const translations = {
             description: `We are organizing to send holiday packages to students staying in Italy during the Passover, allowing to feel the holiday atmosphere even when far from home.
 
                         Students interested in receiving a package are requested to register as soon as possible.
-                        Registration via this form will be open until Rosh Chodesh Nissan – March 18th.
+                        <strong>Registration via this form will be open until Rosh Chodesh Nissan – March 18th.</strong>
                         
                         Wishing you a Kosher and Happy Passover,
                         Tzemach and Efrat Mizrachi`,
