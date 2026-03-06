@@ -40,6 +40,7 @@ export const translations = {
             eyebrow: "הזמנה",
             heading: "הזמנת חבילת פסח",
             subheading: "מלאו את הטופס ונחזור אליכם בהקדם",
+            englishOnlyNote: "* נא להשתמש באותיות לועזיות (חוץ מהשדה של הערות)",
             fields: {
                 fullName: "First + Last name (שם מלא) *",
                 address: "Adress (כתובת - רחוב ומספר) *",
@@ -120,6 +121,7 @@ export const translations = {
             eyebrow: "Order",
             heading: "Order a Pesach Package",
             subheading: "Fill in the form and we'll get back to you shortly",
+            englishOnlyNote: "* Please use English letters only (except for the notes field)",
             fields: {
                 fullName: "First + Last name *",
                 address: "Address (street & number) *",

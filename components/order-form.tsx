@@ -82,6 +82,9 @@ export function OrderForm() {
                 {t.heading}
               </h2>
               <p className="mt-3 text-muted-foreground">{t.subheading}</p>
+              <p className="mt-4 text-sm font-medium text-accent/90 italic">
+                {t.englishOnlyNote}
+              </p>
             </div>
 
             <form
