@@ -104,7 +104,6 @@ export function OrderForm() {
                   name="entry.806412648"
                   type="text"
                   required
-                  placeholder="First + Last name"
                   dir="ltr"
                   pattern="^[a-zA-Z\s]*$"
                   title={t.validation.englishOnly}
