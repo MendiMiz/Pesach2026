@@ -35,6 +35,8 @@ export const translations = {
                 "פודינג",
                 "חפיסת שוקולד",
             ],
+            showMore: "לצפייה ברשימה המלאה",
+            showLess: "הצג פחות",
         },
         orderForm: {
             eyebrow: "הזמנה",
@@ -79,6 +81,11 @@ export const translations = {
             ],
             phone: "+39 348 017 8695"
         },
+        milanSeder: {
+            title: "סטודנטים במילאנו? חוגגים פסח ביחד!",
+            subtitle: 'הזמנה לליל סדר מרכזי וחם בבית חב"ד מילאנו - במיוחד עבורכם',
+            cta: "להרשמה לסטודנטים לחצו כאן",
+        },
     },
 
     en: {
@@ -116,6 +123,8 @@ export const translations = {
                 "Pudding",
                 "Chocolate Bar",
             ],
+            showMore: "View full list",
+            showLess: "Show less",
         },
         orderForm: {
             eyebrow: "Order",
@@ -159,6 +168,11 @@ export const translations = {
                 "Am Israel hai!"
             ],
             phone: "+39 348 017 8695"
+        },
+        milanSeder: {
+            title: "Students in Milan? Let's celebrate Passover together!",
+            subtitle: "An invitation to a warm, central Seder at Chabad Milan - especially for you",
+            cta: "Registration for students click here",
         },
     },
 } as const

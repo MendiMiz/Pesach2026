@@ -30,7 +30,7 @@ export function OrderForm() {
   }
 
   return (
-    <section id="form" className="bg-secondary/50 py-16 md:py-24">
+    <section id="form" className="bg-secondary/50 pt-16 pb-8 md:pt-24 md:pb-12">
       <div className="mx-auto max-w-2xl px-6">
 
         {/* Hidden iframe so form submit target still works and success state can be detected */}
