@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fb69068-c292-444d-af62-55080eb8f3c4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/order-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/order-form.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/package-contents.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/package-contents.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/translations.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/translations.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/hero-pesach1.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="8fb69068-c292-444d-af62-55080eb8f3c4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +70,7 @@
       <workItem from="1772715686711" duration="3065000" />
       <workItem from="1772778767026" duration="1804000" />
       <workItem from="1772798528576" duration="4332000" />
-      <workItem from="1773345511845" duration="1598000" />
+      <workItem from="1773345511845" duration="2118000" />
     </task>
     <servers />
   </component>

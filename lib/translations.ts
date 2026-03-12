@@ -84,7 +84,7 @@ export const translations = {
         milanSeder: {
             title: "סטודנטים במילאנו? חוגגים פסח ביחד!",
             subtitle: 'הזמנה לליל סדר מרכזי וחם בבית חב"ד מילאנו - במיוחד עבורכם',
-            cta: "להרשמה לסטודנטים לחצו כאן",
+            cta: "להרשמה לחצו כאן",
         },
     },
 
@@ -172,7 +172,7 @@ export const translations = {
         milanSeder: {
             title: "Students in Milan? Let's celebrate Passover together!",
             subtitle: "An invitation to a warm, central Seder at Chabad Milan - especially for you",
-            cta: "Registration for students click here",
+            cta: "For registration click here",
         },
     },
 } as const
