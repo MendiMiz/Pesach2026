@@ -15,7 +15,7 @@ export function HeroSection() {
         {/* Background Image and Overlay */}
         <div className="absolute inset-0">
           <Image
-            src="/images/hero-pesach.jpg"
+            src="/images/hero-pesach.jpeg"
             alt="שולחן סדר פסח מעוצב עם מצות, יין וקערת סדר"
             fill
             className="object-cover"

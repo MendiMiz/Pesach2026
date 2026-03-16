@@ -15,7 +15,7 @@ export function SederBanner() {
                 {/* Background Image and Overlay */}
                 <div className="absolute inset-0">
                     <Image
-                        src="/images/seder_table.png"
+                        src="/images/seder_table.jpeg"
                         alt="Seder Table"
                         fill
                         className="object-cover blur-[2px] scale-105"
